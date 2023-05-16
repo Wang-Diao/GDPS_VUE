@@ -1,4 +1,4 @@
-# enterprise_netdisc_vue
+# GDPS_VUE
 
 ## Project setup
 ```
